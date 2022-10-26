@@ -9,12 +9,8 @@ Computer Vision, Object Detection, Autonomous Driving
 **🛠Skill**   
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  
 
-
 **🛠FrameWork**     
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)    ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)      ![PyTorchLightning](https://img.shields.io/badge/PyTorch%20Lightning-792DE4?style=for-the-badge&logo=pytorch-lightning&logoColor=white)
-
-**📚Competition List**   
-If you want to see my competition list, click [here](https://github.com/imjaewoochoi/competition_list)
 
 **📮Contact**  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:loveacaji@gmail.com)](mailto:loveacaji@gmail.com)
